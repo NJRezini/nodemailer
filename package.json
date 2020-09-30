@@ -1,0 +1,9 @@
+{
+  "name": "Mailer",
+  "version": "1",
+  "description": "Microservico de messageria",
+  "main": "index.js",
+  "repository": "https://github.com/NJRezini/nodemailer",
+  "author": "Nathan José Rezini <nathanrezini@gmail.com>",
+  "license": "MIT"
+}
